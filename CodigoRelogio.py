@@ -26,3 +26,5 @@ atualizar_relogio()
 
 # Inicia o loop principal da interface
 janela.mainloop()
+
+#Comentário
